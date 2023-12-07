@@ -1,4 +1,4 @@
-# Web Scraper
+# Stage
 
 This is a Python script for scraping email addresses from web pages based on a Google Custom Search. It provides a graphical user interface (GUI) for configuring the search and extraction settings.
 
@@ -47,7 +47,7 @@ Enter the desired top-level domain (TLD) that you want to match when fetching we
 
 1. After configuring the settings, run the script by executing the following command:
 
-```python3 script.py```
+```python3 main.py```
 
 2. The GUI will open, and you can click the "Start Scraping" button to begin the email scraping process.
 
