@@ -10,13 +10,13 @@ Before running the script, you need to configure the following settings:
 
 To use Google Custom Search, you'll need an API Key and a Custom Search Engine (CSE) ID. You can obtain these by following these steps:
 
-1. Go to the [Google Developers Console.]([https://website-name.com](https://developers.google.com/custom-search/v1/overview?csw=1)
+1. Go to the [Google Developers Console.]([https://website-name.com](https://developers.google.com/custom-search/v1/overview?csw=1))
 3. Create a new project or select an existing one.
 4. In the project dashboard, go to "APIs & Services" > "Library."
 5. Search for "Custom Search API" and enable it for your project.
 6. In the left sidebar, click on "Credentials" and create a new API Key.
 7. Copy the API Key and use it as the "API Key" in the script's GUI.
-8. Next, create a Custom Search Engine by going to [Google Custom Search]([https://website-name.com](https://programmablesearchengine.google.com) and following the setup instructions.
+8. Next, create a Custom Search Engine by going to [Google Custom Search]([https://website-name.com](https://programmablesearchengine.google.com)) and following the setup instructions.
 9. Once your CSE is created, you'll find the CSE ID in the control panel. Use this as the "CSE ID" in the script's GUI.
 
 ### Query and Keywords
